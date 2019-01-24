@@ -1,0 +1,18 @@
+{
+    "name": "warranty",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "e0038a8f-7906-4cdb-9c58-7a852ab4a1fc",
+            "appPassword": "hkWV4}^ruuxeLKXYV4762?*",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "b35c7440-cacc-11e8-9156-07ddf1c6abfa",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\CTO-2018\\Verticals\\Electrolux\\Chatbot2.0\\e-luis\\warranty.bot"
+}

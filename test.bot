@@ -1,0 +1,34 @@
+{
+    "name": "test",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "250bd7d4-8dad-43c6-acec-3f41c2e9c24a",
+            "appPassword": "ybpwCNIK045-$dgjPDO55;]",
+            "endpoint": "http://localhost:8088/api/messages",
+            "id": "8eaeb1c0-cacd-11e8-9156-07ddf1c6abfa",
+            "name": "http://localhost:8088/api/messages"
+        },
+        {
+            "type": "endpoint",
+            "appId": "250bd7d4-8dad-43c6-acec-3f41c2e9c24a",
+            "appPassword": "ybpwCNIK045-$dgjPDO55;]",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "a2",
+            "id": "92"
+        },
+        {
+            "type": "endpoint",
+            "appId": "e0038a8f-7906-4cdb-9c58-7a852ab4a1fc",
+            "appPassword": "hkWV4}^ruuxeLKXYV4762?*",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "a3",
+            "id": "169"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\CTO-2018\\Verticals\\Electrolux\\Chatbot2.0\\e-luis\\test.bot",
+    "overrides": null
+}
