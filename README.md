@@ -1,2 +1,2 @@
 # warranty
-Atos Chat Bot
+Sigma Chat Bot
